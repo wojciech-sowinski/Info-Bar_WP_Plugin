@@ -1,0 +1,1 @@
+Wtyczka WP „pasek-informacyjny”: komunikat na stronie, kolory, pozycja, data końca, cookie po kliknięciu. owliedev.pl
